@@ -1,1 +1,1 @@
-# send_sms_cli
+# send-sms-cli
